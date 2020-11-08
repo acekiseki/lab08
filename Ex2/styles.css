@@ -1,0 +1,11 @@
+.display {
+    position: relative;
+}
+
+.movie {
+    display: none;
+}
+
+#image1 {
+    display: inline;
+}
